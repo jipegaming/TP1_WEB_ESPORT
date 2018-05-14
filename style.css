@@ -1,5 +1,18 @@
 @charset "UTF-8";
 
-* {
-    border: 1px solid black
+/* Navigation */
+nav {
+    border: 2px solid rgb(255, 0, 0)
+}
+/* Bannière */
+header {
+    border: 2px solid rgb(5, 151, 0)
+}
+/* Accueil */
+#accueil {
+    border: 2px solid rgb(255, 166, 0)
+}
+/* Dreamteam */
+#team {
+    border: 2px solid rgb(54, 91, 255)
 }
