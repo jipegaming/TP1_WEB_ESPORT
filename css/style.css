@@ -9,7 +9,7 @@ a {
     color:#ff6117
 }
 a:hover {
-    color:#fec503
+    color:#ff6117
 }
 .text-primary {
     color:#fed136!important
@@ -424,7 +424,7 @@ header.masthead .intro-text .intro-heading {
         float:left;
         width:41%;
         padding:0 20px 20px 30px;
-        text-align:right
+        text-align:justify
     }
     .timeline>li .timeline-image {
         left:50%;
@@ -440,7 +440,7 @@ header.masthead .intro-text .intro-heading {
     .timeline>li.timeline-inverted>.timeline-panel {
         float:right;
         padding:0 30px 20px 20px;
-        text-align:left
+        text-align:justify
     }
 }
 @media (min-width:992px) {
